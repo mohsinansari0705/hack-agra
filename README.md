@@ -73,16 +73,3 @@ flowchart TD
 ```
 
 ---
-
-## 👥 Team: GrayCode
-
-| Name            | Role                          |
-|-----------------|-------------------------------|
-| [`Mohsin Ansari`](https://github.com/mohsinansari0705)   | Model Integration & Backend |
-| [`Rohit Yadav`](https://github.com/RohityadavGG)     | Data & Visualizations       |
-| [`Ayush`](https://github.com/ayush-code303)     | Backend Development       |
-| [`Prerna Verma`](https://github.com/prerna-verma29)     | UI/UX       |
-| [`Payal Katara`](https://github.com/Payal-katara)     | UI/UX & R&D       |
-| [`Kunal Singh`](https://github.com/Kunal-Singh76)     | Testing & Reporting       |
-
----
